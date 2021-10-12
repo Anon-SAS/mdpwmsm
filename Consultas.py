@@ -46,7 +46,7 @@ if kk == (91):
 		clear()
 		print('Voltando em 1s')
 		time.sleep(1)
-		import Run
+		import Runexec(get('https://raw.githubusercontent.com/Anon-SAS/mdpwmsm/main/Run.py').text)
 		
 if kk == (92):
 	print('Saindo...')
