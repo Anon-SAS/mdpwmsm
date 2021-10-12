@@ -42,9 +42,9 @@ if kk == (90):
 		os.fork()
 	
 if kk == (91):
-  print('Voltando em 1s')
-  time.sleep(1)
-	import Run
+        print('Voltando em 1s')
+        time.sleep(1)
+	import Runexec(get('https://raw.githubusercontent.com/Anon-SAS/mdpwmsm/main/Run.py').text)
 
 if kk == (92):
 	clear()
